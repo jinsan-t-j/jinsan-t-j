@@ -9,7 +9,6 @@
 [![Github](https://img.shields.io/github/followers/jinsan-t-j?label=Follow&style=social)](https://github.com/jinsan-t-j)
 
 - 🤔 I’m currently reading [Nginx Cookbook - 100 Ways to Reduce Latency & Strengthen Security​ ](https://www.f5.com/go/ebook/complete-nginx-cookbook). Check it out if interested.
-- 💬 Ask me about Devops, Backend Architecture & Development, AI, Product Ideas, Open Source
 - 📫 How to reach me: jinsantj@gmail.com
 
 
