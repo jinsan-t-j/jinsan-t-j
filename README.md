@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jinsan TJ</h1>
-<h3 align="center">Fullstack Web Developer who loves music</h3>
+<h3 align="center">Fullstack Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jinsan-t-j&label=Profile%20views&color=0e75b6&style=flat" alt="jinsan-t-j" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://jinsan-t-j.github.io/](https://jinsan-t-j.github.io/)
-
-- 💬 Ask me about **A software engineer with 4 years of expertise in developing web applications. Proficient in multiple languages and assortment of technologies. Knowledgeable in various frameworks and databases. Able to design and architect large applications. Capable of guiding a team by leading and working collaboratively in a fast-paced environment.**
+- 💬 Ask me about **Devops, Backend Architecture & Development, AI, Gitops**
 
 - 📫 How to reach me **jinsantj@gmail.com**
 
