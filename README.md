@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jinsan-t-j&label=Profile%20views&color=0e75b6&style=flat" alt="jinsan-t-j" /> </p>
 
-- 💬 Ask me about **Devops, Backend Architecture & Development, AI, Gitops**
+- 💬 Ask me about **Devops, Backend Architecture & Development, AI, Product Ideas, Open Source**
 
 - 📫 How to reach me **jinsantj@gmail.com**
 
