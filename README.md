@@ -13,7 +13,7 @@
 - 📫 How to reach me: jinsantj@gmail.com
 
 
-### 🖥 Skills
+### 💬 Ask me about
 
 - Devops
 - Backend Architecture & Development
