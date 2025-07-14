@@ -8,7 +8,6 @@
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://github.com/jinsan-t-j)](https://jinsan-t-j.github.io/)
 [![Github](https://img.shields.io/github/followers/jinsan-t-j?label=Follow&style=social)](https://github.com/jinsan-t-j)
 
-- 🤔 I’m currently reading [Nginx Cookbook - 100 Ways to Reduce Latency & Strengthen Security​ ](https://www.f5.com/go/ebook/complete-nginx-cookbook). Check it out if interested.
 - 📫 How to reach me: jinsantj@gmail.com
 
 
