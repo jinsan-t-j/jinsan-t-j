@@ -17,7 +17,7 @@
 - Backend Architecture & Development
 - AI
 - Product Ideas
-- Open Source
+- Open Source Contributions
 - Performance Guidelines
 ### ⚙️ Tech Stack
 
