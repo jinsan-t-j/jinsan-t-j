@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jinsan-tj/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/jinsan.tj/)](https://www.instagram.com/jinsan.tj)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jinsantj@gmail.com)
-[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://github.com/jinsan-t-j)](https://jinsan-t-j.github.io/)
+[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://github.com/jinsan-t-j)](https://jinsantj.com)
 [![Github](https://img.shields.io/github/followers/jinsan-t-j?label=Follow&style=social)](https://github.com/jinsan-t-j)
 
 - 📫 How to reach me: jinsantj@gmail.com
